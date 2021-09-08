@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yacobh-reify
+- 👀 I’m interested in AI and make the world a better place
+- 🌱 I’m currently learning clojure and clojurescript
+- 💞️ I’m looking to collaborate on reify Health
